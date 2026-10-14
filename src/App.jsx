@@ -246,15 +246,7 @@ function App() {
       )}
 
       <p className="attribution">
-        Weather data by{" "}
-        <a
-          href="https://worldtimeweather.com/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          World Time &amp; Weather
-        </a>{" "}
-        and Open-Meteo.
+        Created by Khushi Gupta
       </p>
     </div>
   );
